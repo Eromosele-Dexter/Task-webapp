@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+:root {
+  --primary-color: #007AF3;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: all 0.2s linear;
+  text-transform: capitalize;
+  font-family: "Exo", sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #F2F2F2;
+  font-family: "Poppins";
+  overflow-x: hidden;
+}/*# sourceMappingURL=main.css.map */
